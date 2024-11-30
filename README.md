@@ -1,1 +1,1 @@
-Aqui eu irei escrever em varias linguagens o famoso "Hello World"
+Aqui eu irei escrever em várias linguagens o famoso "Hello World"
